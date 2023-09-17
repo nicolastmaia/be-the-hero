@@ -1,4 +1,4 @@
-# Semana OmniStack 11
+# Be The Hero
 
 This is a project developed as an exercise during **Rocketseat's 11th OmniStack Week** using NodeJS, React Native and ReactJS with the guidance of [@diego3g](https://github.com/diego3g). Its purpose is to allow recycling institutions to broadcast their work and for potential clients (people who have something to recycle) to get in contact with them.
 
