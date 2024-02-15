@@ -22,4 +22,4 @@ It consists of three folders: **backend**, **web**, and **mobile**.
 1. Go to /mobile/services/api.js and change the 'baseUrl' constant to the IP address of the machine running the backend service;
 2. Go to /backend, run `npm i` to install the dependencies and then run the server with the command `npm start`;
 3. Go to /web, run `npm i` to install the dependencies and then run `npm start`;
-4. Go to /mobile and run `npm i` to install the dependencies. Make sure you have an android device connected or an android emulator running,  run `npm start`, and then press 'a' to run it on the android device.
+4. Go to /mobile and run `npm i` to install the dependencies. Make sure you have an android device connected or an android emulator running and run `npm run android`.
